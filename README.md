@@ -115,5 +115,5 @@ python measure/measure.py timeout 5    # 로봇 종료 상태
 | #4 | [타이머와 센서: 박스가 오면 멈춘다](https://dingirl.tistory.com/231) |
 | #5 | [인터록과 비상정지](<링크>) |
 | #6 | [PLC와 로봇은 어떻게 대화할까: 신호 설계와 Modbus TCP](https://dingirl.tistory.com/233) |
-| #7 | [C#으로 HMI 만들기](<링크>) |
-| #8 | [물류 분류 셀 완성: 하나로 묶고 숫자로 확인하기](<링크>) |
+| #7 | [C#으로 HMI 만들기](https://dingirl.tistory.com/234) |
+| #8 | [물류 분류 셀 완성: 하나로 묶고 숫자로 확인하기](https://dingirl.tistory.com/235) |
