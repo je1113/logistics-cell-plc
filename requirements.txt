@@ -1,0 +1,2 @@
+pymodbus>=3.6,<3.9
+pytest>=8
